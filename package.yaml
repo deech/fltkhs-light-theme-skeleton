@@ -1,6 +1,6 @@
 name:                fltkhs-light-theme-skeketon
 version:             0.1.0.0
-github:              "deech/fltkhs-light-skeleton"
+github:              "deech/fltkhs-light-theme-skeleton"
 license:             BSD3
 author:              "Aditya Siram"
 maintainer:          "aditya.siram@gmail.com"
@@ -26,7 +26,7 @@ flags:
     default: False
 
 executables:
-  fltkhs-light-skeleton:
+  fltkhs-light-theme-skeleton:
     main:                Main.hs
     source-dirs:         app
     ghc-options:
