@@ -1,0 +1,9 @@
+resolver: lts-12.12
+packages:
+- .
+- ../fltkhs
+- ../fltkhs-themes
+- ../asset-bundle
+allow-newer: true
+extra-deps:
+- load-font-0.1.0.2
