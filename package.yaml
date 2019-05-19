@@ -34,8 +34,8 @@ executables:
     - -rtsopts
     - -with-rtsopts=-N
     dependencies:
-      - fltkhs >= 0.8.0.0
-      - fltkhs-themes >= 0.2.0.0
+      - fltkhs >= 0.8.0.1
+      - fltkhs-themes >= 0.2.0.1
       - text >= 1.2.2.0
       - load-font >= 0.1.0.2
     when:
