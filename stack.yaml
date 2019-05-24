@@ -1,8 +1,8 @@
 flags: {}
 resolver: lts-12.26
 extra-deps:
-- fltkhs-0.8.0.1
-- fltkhs-themes-0.2.0.1
+- fltkhs-0.8.0.2
+- fltkhs-themes-0.2.0.2
 - load-font-0.1.0.2
 - asset-bundle-0.1.0.1
 allow-newer: true
